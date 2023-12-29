@@ -1,3 +1,5 @@
+![Build and Text](https://github.com/sklevenz/GoLingoGPT/actions/workflows/go.yml/badge.svg)
+
 # GoLingoGPT
 
 A server that corrects grammar with help of ChatGPT. 
