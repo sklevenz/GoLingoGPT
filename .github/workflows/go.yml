@@ -3,6 +3,9 @@
 
 name: Go
 
+env:
+  OPENAI_API_KEY: 'myOpenAIKey'
+
 on:
   push:
     branches: [ "main" ]
