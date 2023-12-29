@@ -13,3 +13,9 @@ go run golingogpt_server.go
 ./bin/testCorrectGrammerGet.sh
 ./bin/testCorrectGrammerPost.sh
 ```
+
+## test it
+
+```
+go test ./...
+```
